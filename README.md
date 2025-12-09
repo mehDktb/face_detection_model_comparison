@@ -24,6 +24,9 @@ The accuracy and performance of each model were evaluated across diverse scenari
 | Yolo v11n     | 15-17 fps    | > 3 meters         | Very Good       | Very Good    | Very Good | Very Good  | Very Good  | Very Good      | Very Good      | Very Good          |
 | RetinaFace    | 1 fps        | > 3 meters         | Very Good       | Very Good    | Very Good | Very Good  | Very Good  | Very Good      | Very Good      | Very Good          |
 
+all speed measurements were performed on CPU only, using the following system:
+11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+
 ## Recommendations
 
 * **Real-time with multiple people:** YOLO v11n
